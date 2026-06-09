@@ -52,8 +52,7 @@ export function VaultPage() {
       <header className="vault-header">
         <div className="header-left">
           <div className="logo">
-            <span className="logo-icon">🧠</span>
-            <span className="logo-text">Second Brain</span>
+            <span className="logo-text">Stash</span>
           </div>
         </div>
         <button className="btn-primary" onClick={openCreate}>+ New Note</button>
